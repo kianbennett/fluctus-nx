@@ -2,7 +2,7 @@
 
 Switch port of my university project Fluctus (https://kianbennett.itch.io/fluctus)
 
-##Dependencies
+## Dependencies
 
 Use [devkitPro](https://devkitpro.org/) to compile from source. libnx OpenGL libraries are required:
 
